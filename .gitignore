@@ -91,3 +91,7 @@ aws-credentials.json
 .env
 .env.local
 .env.*.local
+
+
+.terraform.lock.hcl
+.terraform.lock.hcl.*
